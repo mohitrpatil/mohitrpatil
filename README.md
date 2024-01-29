@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Building robust data processing pipelines and generating insights.<br><br>👯 **I’m looking to collaborate on:**  <br>Data Engineering Projects<br><br>
+🔭 **I’m currently working on:**  <br>Building robust data processing pipelines and generating insights.<br><br>👯 **I’m looking to collaborate on:**  <br>Data Engineering & Analytics Projects<br><br>
 <!--🌱**I’m currently learning:**  <br>Advanced AWS Services and <br><br>-->
 💬 **Ask me about:**  <br>Data pipelines, Cloud and Databases.<br><br>
 
