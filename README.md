@@ -1,11 +1,14 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Building robust data processing pipelines and generating insights.<br><br>👯 **I’m looking to collaborate on:**  <br>Data Engineering & Analytics Projects<br><br>
+🔭 **I’m currently working on:**  <br>Building robust data processing pipelines and generating insights.<br>
+Exploring Google Cloud Platform and [Mage.AI](https://www.mage.ai/) 
+<br><br>👯 **I’m looking to collaborate on:**  <br>Data Engineering & Analytics Projects<br><br>
 <!--🌱**I’m currently learning:**  <br>Advanced AWS Services and <br><br>-->
 💬 **Ask me about:**  <br>Data pipelines, Cloud and Databases.<br><br>
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohitpatil1007/)
+[![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?logo=x&logoColor=black)](https://twitter.com/MOHITPA87628606)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
