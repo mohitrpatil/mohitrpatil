@@ -12,7 +12,7 @@ Exploring Google Cloud Platform and [Mage.AI](https://www.mage.ai/)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![SQL](https://img.shields.io/badge/sql-3670A0?style=for-the-badge&logo=mysql&logoColor=ffdd54) 
+![SQL](https://img.shields.io/badge/sql-%23DD0031?style=for-the-badge&logo=mysql&logoColor=ffdd54) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Scala](https://img.shields.io/badge/scala-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
