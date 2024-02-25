@@ -8,7 +8,7 @@ Exploring Google Cloud Platform and [Mage.AI](https://www.mage.ai/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohitpatil1007/)
-[![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?logo=x&logoColor=black)](https://twitter.com/MOHITPA87628606)
+[![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?logo=x&logoColor=black)](https://twitter.com/realmohitp)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
