@@ -19,22 +19,23 @@ Exploring Google Cloud Platform and [Mage.AI](https://www.mage.ai/)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![GCP](https://img.shields.io/badge/-gcp-005571?style=for-the-badge&logo=icloud)
 
-![Informatica](https://img.shields.io/badge/informatica-%232C8EBB.svg?style=for-the-badge&logo=informatica&logoColor=white) 
-![ApacheHadoop](https://img.shields.io/badge/apache_hadoop-%23316192.svg?style=for-the-badge&logo=apachehadoop&logoColor=white)
-![ApacheSpark](https://img.shields.io/badge/apache_spark-%234ea94b.svg?style=for-the-badge&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/-apacheairflow-005571?style=for-the-badge&logo=apacheairflow) 
-![Kafka](https://img.shields.io/badge/-apachekafka-005571?style=for-the-badge&logo=apachekafka)
-![Pandas](https://img.shields.io/badge/pandas-%23316192.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Numpy](https://img.shields.io/badge/numpy-%23316192.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Snowflake](https://img.shields.io/badge/snowflake-%230db7ed.svg?style=for-the-badge&logo=snowflake&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Redshift](https://img.shields.io/badge/redshift-%2338B2AC.svg?style=for-the-badge&logo=amazonredshift&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/oracle-%23DD0031.svg?style=for-the-badge&logo=oracle&logoColor=white) 
 ![MSSQL](https://img.shields.io/badge/microsoft_sql_server-%23316192.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
 ![Big Query](https://img.shields.io/badge/-big_query-005571?style=for-the-badge&logo=googlebigquery) 
 ![Cassandra](https://img.shields.io/badge/apache_cassandra-%234ea94b.svg?style=for-the-badge&logo=apachecassandra&logoColor=white) 
-![Snowflake](https://img.shields.io/badge/snowflake-%230db7ed.svg?style=for-the-badge&logo=snowflake&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+
+
+![Informatica](https://img.shields.io/badge/informatica-%232C8EBB.svg?style=for-the-badge&logo=informatica&logoColor=white) 
+![ApacheHadoop](https://img.shields.io/badge/apache_hadoop-%23316192.svg?style=for-the-badge&logo=apachehadoop&logoColor=white)
+![ApacheSpark](https://img.shields.io/badge/apache_spark-%234ea94b.svg?style=for-the-badge&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/-apacheairflow-005571?style=for-the-badge&logo=apacheairflow) 
+![Kafka](https://img.shields.io/badge/-apachekafka-23DD0031?style=for-the-badge&logo=apachekafka)
+![Pandas](https://img.shields.io/badge/pandas-%23316192.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Numpy](https://img.shields.io/badge/numpy-%23316192.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 
 
 ![Tableau](https://img.shields.io/badge/-tableau-005571?style=for-the-badge&logo=tableau) 
