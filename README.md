@@ -33,7 +33,8 @@ Exploring Google Cloud Platform and [Mage.AI](https://www.mage.ai/)
 ![Oracle](https://img.shields.io/badge/oracle-%23DD0031.svg?style=for-the-badge&logo=oracle&logoColor=white) 
 ![MSSQL](https://img.shields.io/badge/microsoft_sql_server-%23316192.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
 ![Big Query](https://img.shields.io/badge/-big_query-005571?style=for-the-badge&logo=googlebigquery) 
-![Cassandra](https://img.shields.io/badge/apache_cassandra-%230db7ed.svg?style=for-the-badge&logo=apachecassandra&logoColor=white) 
+![Cassandra](https://img.shields.io/badge/apache_cassandra-%234ea94b.svg?style=for-the-badge&logo=apachecassandra&logoColor=white) 
+![Snowflake](https://img.shields.io/badge/snowflake-%230db7ed.svg?style=for-the-badge&logo=snowflake&logoColor=white) 
 
 
 ![Tableau](https://img.shields.io/badge/-tableau-005571?style=for-the-badge&logo=tableau) 
